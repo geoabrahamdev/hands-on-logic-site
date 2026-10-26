@@ -1,0 +1,13 @@
+{
+  "name": "Hands-On Logic — Interactive Mathematics",
+  "short_name": "Hands-On Logic",
+  "description": "A browser-local laboratory for equations, geometry, 3D surfaces, patterns, calculus and data.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07090d",
+  "theme_color": "#07090d",
+  "icons": [
+    { "src": "./app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
