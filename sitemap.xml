@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Lessons live after the "#" in the address, which search engines treat as the same page, so only the home page is listed. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://geoabrahamdev.github.io/hands-on-logic-site/</loc>
+    <lastmod>2026-10-31</lastmod>
+  </url>
+</urlset>
